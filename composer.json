@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    },
+    "classmap": [
+      "src/InputData/Input.php",
+      "src/SMA/SimpleMovingAverage.php"
+    ]
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
